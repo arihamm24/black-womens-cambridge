@@ -1,2 +1,3 @@
-# black-womens-cambridge
-Data collection and analysis, and visualization source code for my 2026 MSRP Project at the MIT Senseable City Lab
+# Black Women's Cambridge: A Case Study in Black feminist counter-mapping
+
+A design research study of Black feminist counter-mapping using census data and geo-located social media posts to locate Black women's/Black feminist geographies in Cambridge, MA.

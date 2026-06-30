@@ -1,7 +1,5 @@
 # Black Women's Cambridge: A Case Study in Black feminist counter-mapping
 
-This repository hosts the documentation and deliverables for my project from the 2026 MIT Summer Research Program, developed under the supervision of Fábio Duarte at the MIT Senseable City Lab.
-
 ## Abstract
 
 Black feminist geographies refer to the way that the intersectional identity of Black womanhood influences how we experience our communities, navigate different spaces, and interact with the world. This is a digital mapping project intended to locate and visualize the geographic perspectives and experiences of Black women in Cambridge, MA. Through contextual interviews with Black women, I gathered information about their residential communities, social spaces, and daily activity locations. Then, using QualCoder for thematic analysis and coding, I extracted key locations, sentiments, and behaviors to create this map of Black women's geographies in Cambridge.
@@ -9,7 +7,11 @@ Black feminist geographies refer to the way that the intersectional identity of 
 ## Directory/Table of Contents
 
 - Documentation
-- Qualitative Coding and Analysis
+  - Participant Flyer
+  - Interview Protocol
+  - Design Documents
+    - Storyboard(s)
+    - Design Decision Log
 - Final Deliverables
   - Live Site
   - StoryMap PDF
@@ -26,10 +28,14 @@ Through a design-based approach, this study aims to position digital mapping tec
 
 ## Methods/Tools Used
 
-- QualCoder
-- ArcGIS StoryMaps
-- ArcGIS Web Editor
-- GitHub Pages
+This study used a semi-structured interview format. I accompanied participants on a 30–45-minute walk around their residencies or typical activity space(s). I also recorded these walks using cell phone GPS. The information collected from these interviews was then thematically analyzed to create a narrative of Black women's geographies in Cambridge.
+
+- QualCoder: Qualitative Coding and Thematic Analysis
+- ArcGIS StoryMaps: Content sequencing, publishing
+- ArcGIS Web Editor: Map design and editing
+- Canva: Flyer Participation Design
+- Procreate: Storyboarding
+- GitHub Pages: Embed site
 
 ## References
 Brown, Melissa. "Black Geographies: Mapping Black Spaces and Places." *Blackfeminisms.com*. 2018. Accessed on June 28, 2026 at 09:29. https://blackfeminisms.com/black-geographies/.

@@ -13,7 +13,7 @@ Black feminist geographies refer to the way that the intersectional identity of 
     - Storyboard(s)
     - Design Decision Log
 - Final Deliverables
-  - Live Site
+  - StoryMap Hosting Site (last updated July 2026)
   - StoryMap PDF
   - Video Demo
   - Research Poster

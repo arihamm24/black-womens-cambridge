@@ -2,40 +2,47 @@
 
 ## Abstract
 
-Black feminist geographies refer to the way that the intersectional identity of Black womanhood influences how we experience our communities, navigate different spaces, and interact with the world. This is a digital mapping project intended to locate and visualize the geographic perspectives and experiences of Black women in Cambridge, MA. Through contextual interviews with Black women, I gathered information about their residential communities, social spaces, and daily activity locations. Then, using QualCoder for thematic analysis and coding, I extracted key locations, sentiments, and behaviors to create this map of Black women's geographies in Cambridge.
+Black feminist geographies examine how Black women’s intersectional identities shape their imagination, organization, and conception of space. These geographies explain how the bodily and emotional experiences of race and gender are expressed in and reinforced by landscapes. However, they are obscured or ignored in traditional geographic practices. While previous work in counter-cartography and feminist GIS examines how feminist geographies may reorient dominant practices, namely visualization, to create more critical, subjective representations of geography, this body of work pays minimal attention to race and intersectionality. In this study, we use a research-through-design methodology to locate and visualize Black women’s geographies in ArcGIS, extending previous arguments in feminist GIS to highlight Black feminist geographies. Through a thematic analysis of oral histories of eight Black Cantabrigian women, supplemented by archival records and existing GIS data from the City of Cambridge, we located emotions about, experiences with, and understandings of space in these women’s accounts of the Cambridge landscape. The resulting ArcGIS visualization, composed of maps and multimedia information, offers an alternative geographic perspective on race, class, leisure, and development in the city of Cambridge; the accompanying design documentation explores how using ArcGIS with/for Black feminist geographies reveals new design patterns and possibilities
 
 ## Directory/Table of Contents
 
 - Documentation
-  - Participant Flyer
-  - Interview Protocol
-  - Design Documents
-    - Storyboard(s)
-    - Design Decision Log
+  - Storyboard (7/28/26)
+  - Reflective Experiment Logs
+  - Design Diary/Sketchbook
+  - Progress Slides
+    - Proposal Slides (6/18/26)
+    - Post-Thematic Analysis Update (7/28/26)
 - Final Deliverables
-  - StoryMap Hosting Site (last updated July 2026)
-  - StoryMap PDF
-  - Video Demo
+  - Abstract
+  - Final Slides
   - Research Poster
 
 ## Background
 
-Black feminist geographies describe how Black women’s uniquely intersectional experience of racial-sexual hierarchies and oppression shapes our creation and definition of geographic landscapes (McKittrick, 2006). By considering these geographies, we can offer alternative and critical interpretations of traditional Eurocentric/colonizing geography that consider the role of labor, patriarchy, race, and sex in the construction of space. This allows us to reinsert Black geographic and historic perspectives and challenge the “permanence” of traditional physical and human geography.
+BBlack women’s geographies describe how Black women’s uniquely intersectional experience of racial-sexual hierarchies and oppression shape our creation and definition of geographic landscapes.
+This creates an ambiguous, subjective experience of geography that captures communities made “ both for [us] through processes of control and by [us] through means of resistance.” This creates an ambiguous, subjective experience of geography that captures communities made “ both for [us] through processes of control and by [us] through means of resistance.”
 
-Though GIS and other digital mapping technologies have been examined as feminist methods for research and visualization, there is minimal research directly examining how GIS can be employed to highlight Black feminist geographies. Because those discussions do implement and prioritize feminist data visualization principles as described by D’Ignazio and Klein, I continue traditions of reflexivity, pluralism, questioning power, and making labor visible in the design process to better synthesize a framework or methodology by which GIS technologies can be used as Black feminist tools.
+Geographic information systems (GIS) were developed as an objective scientific visualization tool without consideration of social, emotional, or cultural constructions of space. In a field referred to as critical GIS, “Feminist [and Black] geographers challenge objectivity and mind/body dualisms by recognizing emotion and embodiment as ways of knowing,” emphasizing qualitative data, and rejecting simplification or generalization imbued in GIS features.
 
-Through a design-based approach, this study aims to position digital mapping technologies as possible tools for visualizing Black women’s geographies. Black women’s geographies are distinct from both the fields of Black and feminist geographies, extending both of their critical perspectives by centering an intersectional racial-sexual experience; by visualizing them with GIS, I will extend work done in feminist visualization towards the goals of inclusion and reflections purported by Black geographies. The final map design, alongside the methodology, offers a new critical perspective in several social science disciplines, namely Information Visualization and Human Geography, by applying Black feminist theory to data collection, data analysis, and design. Moreover, this adoption of ArcGIS to visualize and center Black women’s geographies holds significant implications for digital humanities and Black feminist studies.
+In this study, I used a research-through-design methodology to locate and visualize Black women’s geographies in ArcGIS, extending previous arguments in feminist GIS to highlight Black feminist geographies and examine their disruptive potential in traditional GIS visualization.
 
 ## Methods/Tools Used
 
-This study used a semi-structured interview format. I accompanied participants on a 30–45-minute walk around their residencies or typical activity space(s). I also recorded these walks using cell phone GPS. The information collected from these interviews was then thematically analyzed to create a narrative of Black women's geographies in Cambridge.
+I conducted a qualitative analysis of 8 oral histories from the Cambridge Black History Project, collected and stored in the Cambridge Room of the Cambridge Public Library. Synthesizing my approach from Braun et al.'s reflexive approach, Naeem et al.'s conceptual model approach, and Fike and Mattis's  Black feminist critical epistemological approach, I identified key themes from the oral histories that indicated unique and subjective conceptions of the geography of Cambridge.
 
-- QualCoder: Qualitative Coding and Thematic Analysis
-- ArcGIS StoryMaps: Content sequencing, publishing
-- ArcGIS Web Editor: Map design and editing
-- Canva: Flyer Participation Design
-- Procreate: Storyboarding
-- GitHub Pages: Embed site
+I then used ArcGIS's Map Viewer and Experience Builder to visualize these geographies, documenting how the positivist features and dominant assumptions of GIS platforms were challenged by, created friction with, or in direct opposition to principles of data feminism and the conception of Black feminist geographies.
+
+- Design Process
+  - QualCoder: Qualitative Coding and Thematic Analysis
+  - ArcGIS Experience Builder: Content sequencing, publishing
+  - ArcGIS Web Editor: Map design and editing
+  - Procreate: Storyboarding, Design Documentation
+  - Notion: Design Documentation
+- Presentation/Dissemination
+  - PowerPoint: Poster Design
+  - Google Slides: Slide Design
+  - GitHub Pages: Embed site
 
 ## References
 Brown, Melissa. "Black Geographies: Mapping Black Spaces and Places." *Blackfeminisms.com*. 2018. Accessed on June 28, 2026 at 09:29. https://blackfeminisms.com/black-geographies/.

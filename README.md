@@ -44,28 +44,18 @@ I then used ArcGIS's Map Viewer and Experience Builder to visualize these geogra
   - GitHub Pages: Embed site
 
 ## References
-Brown, Melissa. "Black Geographies: Mapping Black Spaces and Places." *Blackfeminisms.com*. 2018. Accessed on June 28, 2026 at 09:29. https://blackfeminisms.com/black-geographies/.
-
-*Cambridge Neighborhood Statistical Profile*. City of Cambridge, Massachusetts. Community Development Department. 2023.
-
-D’Ignazio, C., & Klein, L. F. (2016, October). Feminist data visualization. In *Workshop on Visualization for the Digital Humanities (VIS4DH)*, Baltimore. IEEE (Vol. 2, No. 10).
-
-Dörk, M., Feng, P., Collins, C., & Carpendale, S. (2013). Critical InfoVis: Exploring the politics of visualization. *CHI ’13 Extended Abstracts on Human Factors in Computing Systems*, 2189–2198. https://doi.org/10.1145/2468356.2468739
-
-Fike, K. J., & Mattis, J. S. (2024). Gender, race, and space: A qualitative exploration of young Black women’s perceptions of urban neighborhoods. *American Journal of Community Psychology*, 74(1–2), 152–168. https://doi.org/10.1002/ajcp.12752
-
-Fileborn, B. (2023). Digital mapping as feminist method: Critical reflections. *Qualitative Research*, 23(2), 343–361. https://doi.org/10.1177/14687941211028797
-
-Garrison-Harrison, C. (2025). Interjecting a Black Feminist Geographies Framework into Social Science Research Paradigms. *Global Black Thought*, 1(1), 158–182. https://doi.org/10.1353/gbt.2025.a960152
-
-Kelly, M. (2023). Feminist geography and geospatial technologies. In *The Routledge Handbook of Geospatial Technologies and Society*. Routledge.
-
-Kwan, M.-P. (2002). Feminist Visualization: Re-envisioning GIS as a Method in Feminist Geographic Research. *Annals of the Association of American Geographers*, 92(4), 645–661. https://doi.org/10.1111/1467-8306.00309
-
-McKittrick, K. (2006). *Demonic Grounds: Black Women and the Cartographies of Struggle* (NED-New edition). University of Minnesota Press. https://www.jstor.org/stable/10.5749/j.ctttv711
-
-Ricker, B., Kraak, M.-J., & Engelhardt, Y. (2020). The power of visualization choices: Different images of patterns in space. In *Data Visualization in Society*. Routledge.
-
-Pedgley, O. (2007). Capturing and analysing own design activity. Design Studies, 28(5), 463–483. https://doi.org/10.1016/j.destud.2007.02.004
-
+### Oral Histories
+### Literature
+Brailas, A., Tragou, E., & Papachristopoulos, K. (2023). Introduction to Qualitative Data Analysis and Coding with QualCoder. American Journal of Qualitative Research, 7(3), 19–31. https://doi.org/10.29333/ajqr/13230
+Brand, A. L., & Miller, C. (2020). Tomorrow I’ll Be at the Table: Black Geographies and Urban Planning: A Review of the Literature. Journal of Planning Literature, 35(4), 460–474. https://doi.org/10.1177/0885412220928575
+Braun, V., Clarke, V., Hayfield, N., & Terry, G. (2019). Thematic Analysis. In Handbook of Research Methods in Health Social Sciences (pp. 843–860). Springer, Singapore. https://doi.org/10.1007/978-981-10-5251-4_103
+Fike, K. J., & Mattis, J. S. (2024). Gender, race, and space: A qualitative exploration of young Black women’s perceptions of urban neighborhoods. American Journal of Community Psychology, 74(1–2), 152–168. https://doi.org/10.1002/ajcp.12752
+Kelly, M. (2023). Feminist geography and geospatial technologies. In The Routledge Handbook of Geospatial Technologies and Society. Routledge.
+Kwan, M.-P. (2002). Feminist Visualization: Re-envisioning GIS as a Method in Feminist Geographic Research. Annals of the Association of American Geographers, 92(4), 645–661. https://doi.org/10.1111/1467-8306.00309
+Kwan, M.-P. (2008). From oral histories to visual narratives: Re-presenting the post-September 11 experiences of the Muslim women in the USA. Social & Cultural Geography. https://doi.org/10.1080/14649360802292462
+McKITTRICK, K. (2006). Demonic Grounds: Black Women and the Cartographies of Struggle (NED-New edition). University of Minnesota Press. https://www.jstor.org/stable/10.5749/j.ctttv711
+McLafferty, S. L. (2002). Mapping Women’s Worlds: Knowledge, power and the bounds of GIS. Gender, Place & Culture, 9(3), 263–269. https://doi.org/10.1080/0966369022000003879
+Naeem, M., Ozuem, W., Howell, K., & Ranfagni, S. (2023). A Step-by-Step Process of Thematic Analysis to Develop a Conceptual Model in Qualitative Research. International Journal of Qualitative Methods, 22, 16094069231205789. https://doi.org/10.1177/16094069231205789
+Noxolo, P. (2024). Geographies of race and ethnicity II: Black Feminist Geographies. Progress in Human Geography, 48(1), 85–93. https://doi.org/10.1177/03091325231194656
 Sadokierski, Z. (2020). Developing critical documentation practices for design researchers. Design Studies, 69, 100940. https://doi.org/10.1016/j.destud.2020.03.002
+

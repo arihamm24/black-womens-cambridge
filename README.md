@@ -33,9 +33,8 @@ I then used ArcGIS's Map Viewer and Experience Builder to visualize these geogra
 
 - Design Process
   - QualCoder: Qualitative Coding and Thematic Analysis
-  - ArcGIS Experience Builder: Content sequencing, publishing
-  - ArcGIS Web Editor: Map design and editing
-  - Procreate: Storyboarding, Design Documentation
+  - ArcGIS Online: Map design and editing
+  - Procreate: Design Documentation
   - Notion: Design Documentation
 - Presentation/Dissemination
   - PowerPoint: Poster Design

@@ -7,7 +7,6 @@ Black feminist geographies examine how Black women’s intersectional identities
 ## Directory/Table of Contents
 
 - Documentation
-  - Storyboard (7/28/26)
   - Reflective Experiment Logs
   - Design Diary/Sketchbook
   - Progress Slides

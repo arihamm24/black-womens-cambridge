@@ -42,7 +42,9 @@ I then used ArcGIS's Map Viewer and Experience Builder to visualize these geogra
   - GitHub Pages: Embed site
 
 ## References
+
 ### Oral Histories
+
 Thorne, E. (2022). Interview by Mcree, R. Lift Every Voice. Cambridge Black History Project. Cambridge Public Library, Cambridge, MA.
 
 Harding Scott, E.T. (2022). Interview by Harrington, C. Lift Every Voice. Cambridge Black History Project. Cambridge Public Library, Cambridge, MA.
@@ -58,6 +60,7 @@ Paris, P. (2023). Interview by Harrington, C. Lift Every Voice. Cambridge Black 
 Janey, P. W. (2022). Interview by Brunetta, L. Lift Every Voice. Cambridge Black History Project. Cambridge Public Library, Cambridge, MA.
 
 ### Literature
+
 Brailas, A., Tragou, E., & Papachristopoulos, K. (2023). Introduction to Qualitative Data Analysis and Coding with QualCoder. American Journal of Qualitative Research, 7(3), 19–31. https://doi.org/10.29333/ajqr/13230
 
 Brand, A. L., & Miller, C. (2020). Tomorrow I’ll Be at the Table: Black Geographies and Urban Planning: A Review of the Literature. Journal of Planning Literature, 35(4), 460–474. https://doi.org/10.1177/0885412220928575

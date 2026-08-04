@@ -7,6 +7,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+        <script type="module" src="https://js.arcgis.com/5.1/embeddable-components/"></script>
         <style>
             html {
                 font-size: 14pt;
@@ -58,7 +59,9 @@
         <h2>Final Poster and Map Embed</h2>
         <div id="embeds">
             <embed title="Research Poster for Black Women's Cambridge" type="application/pdf" src="./deliverables/Hammond_Ari_MSRPPoster.pdf" width="50%" height="300"></embed>
-            <embed title="Black Women's Cambridge ArcGIS Map" src="" width="400" height="300"></embed>
+            <embed title="Black Women's Cambridge ArcGIS Map">
+                <arcgis-embedded-map style="height:600px;width:700px;" item-id="2a4afff9c01b4504ad6344cc51385aad" theme="light" bookmarks-enabled heading-enabled legend-enabled information-enabled scroll-enabled time-zone-label-enabled extent="-7927335.647467682,5211672.342054118,-7908837.886622695,5222736.601898382,102100" portal-url="https://mit.maps.arcgis.com"></arcgis-embedded-map>
+            </embed>
         </div>
         <h2>References</h2>
         <div id="references">
